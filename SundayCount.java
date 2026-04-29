@@ -1,3 +1,11 @@
+/* Jack is always exvited about sunday so eveytime when the month starts he counts the number of sundays he will get.
+Considering the month can start with any day. Count the no. of sundays Jack will get within n number of days
+
+Input : Monday
+        30
+Output : 2
+*/
+
 package PlacementProblem;
 
 import java.util.Scanner;
