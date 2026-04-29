@@ -1,3 +1,10 @@
+/* One choco cost one rupee, Rohith has n rupees, he brought n choco. The shop offers discount on giving one choco per 3 Wrappers.
+So finally how many choco Rohith has eaten
+
+Input : 15
+Output : 22
+*/
+
 package PlacementProblem;
 
 import java.util.Scanner;
