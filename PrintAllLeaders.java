@@ -1,3 +1,10 @@
+/* Given an array your task is to find all the leaders in the array if it is greater or equal to all elements to its right.
+The right most element is always a leader
+
+Input : 16 17 4 3 5 2 (or) 10 4 2 4 1
+Output : 17 5 2 (or) 10 4 4 1
+*/
+
 package PlacementProblem;
 
 import java.util.Scanner;
